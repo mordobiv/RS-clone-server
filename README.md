@@ -9,6 +9,7 @@ Endpoints:
 
 Example:
 
+```
 async function getRequest(endpoint) {
   const request = await fetch(`http://localhost:3000/${endpoint}`);
   return request.json();
@@ -73,3 +74,4 @@ async function main() {
 }
 
 main();
+```
