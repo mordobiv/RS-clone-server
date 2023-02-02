@@ -2,16 +2,25 @@
   "doctors": [
     {
       "name": "Elon Musk",
+      "username": "mask",
+      "mail": "elon_mask@mail.ru",
+      "password": "123",
       "specialization": 1,
       "id": 1
     },
     {
       "name": "Bill Gates",
+      "username": "windowMaker",
+      "mail": "billy@rambler.ru",
+      "password": "123",
       "specialization": 2,
       "id": 2
     },
     {
       "name": "Winston Cherchill",
+      "username": "wadabody",
+      "mail": "cigarra@list.ru",
+      "password": "123",
       "specialization": 3,
       "id": 3
     }
@@ -33,10 +42,15 @@
   "clients": [
     {
       "name": "John",
+      "username": "depp",
+      "mail": "herd_lover@gmail.eu",
+      "password": "123",
       "id": 1
     },
     {
       "name": "Valera",
+      "username": "stolyar",
+      "mail": "polylah@gmail.by",
       "id": 2
     }
   ],
