@@ -51,7 +51,16 @@
       "name": "Valera",
       "username": "stolyar",
       "mail": "polylah@gmail.by",
+      "password": "123",
       "id": 2
+    }
+  ],
+  "admins": [
+    {
+      "name": "Grisha",
+      "username": "god",
+      "mail": "mainAdmin@gmail.com",
+      "password": "123"
     }
   ],
   "sessions": [
